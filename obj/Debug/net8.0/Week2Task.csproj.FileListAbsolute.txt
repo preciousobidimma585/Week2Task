@@ -1,0 +1,14 @@
+/Users/macbookair/Desktop/Week2Task/Week2Task/bin/Debug/net8.0/Week2Task
+/Users/macbookair/Desktop/Week2Task/Week2Task/bin/Debug/net8.0/Week2Task.deps.json
+/Users/macbookair/Desktop/Week2Task/Week2Task/bin/Debug/net8.0/Week2Task.runtimeconfig.json
+/Users/macbookair/Desktop/Week2Task/Week2Task/bin/Debug/net8.0/Week2Task.dll
+/Users/macbookair/Desktop/Week2Task/Week2Task/bin/Debug/net8.0/Week2Task.pdb
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.AssemblyInfoInputs.cache
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.AssemblyInfo.cs
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.csproj.CoreCompileInputs.cache
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.dll
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/refint/Week2Task.dll
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.pdb
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/Week2Task.genruntimeconfig.cache
+/Users/macbookair/Desktop/Week2Task/Week2Task/obj/Debug/net8.0/ref/Week2Task.dll
